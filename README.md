@@ -7,4 +7,4 @@
 6. [Promises](promises_in_javascript.md)
 
 ## Exercises
-[Work with APIs in Javascript]()
+[Work with APIs in Javascript](ex_fetching_data.md)
