@@ -1,6 +1,7 @@
 # Contents
-
-1. [Problemstellung](00-problemstellung.md)
-1. [1. Kapitel - Beispiele in Markdown](01-chapter1.md)
-1. [2. Kapitel - Beispiel eines 2. Kapitels](02-chapter2.md)
-2. [Aufgabenstellung](XX-aufgabenstellung.md)
+1. [What is an API](what_is_an_api.md)
+2. [What is REST](what_is_rest.md)
+3. [JSON](json_explained.md)
+4. [Fetch API ](fetch_api.md)
+5. [Async Await](async_await.md)
+6. [Promises](promises_in_javascript.md)
