@@ -8,3 +8,6 @@
 
 ## Exercises
 [Work with APIs in Javascript](ex_fetching_data.md)
+
+## Kompetenzcheck
+[Expand your Quiz App](javascript_3_kompetenzcheck.md)
