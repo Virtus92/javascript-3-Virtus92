@@ -6,7 +6,7 @@ Die statischen Daten aus dem ersten Kompetenzchecks werdet ihr jetzt mit Daten v
 **Hier der Link zur API:**
 https://opentdb.com/api_config.php
 
-![Screenshot Trivia API](../img/screenshot_trivia_api.png "Screenshot Trivia API")
+![Screenshot Trivia API](screenshot_trivia_api.png "Screenshot Trivia API")
 
 Hier könnt ihr die Anzahl der Fragen, die Kategorie, den Schwierigkeitsgrad & den Typ der Quizfragen auswählen.
 - Bei Number of Questions -> *9*
