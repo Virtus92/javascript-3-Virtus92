@@ -25,7 +25,7 @@ Achtung: deine Oberfläche soll sich dynamisch anpassen.
 
 **EN:**
 
-# JS 3 - Competency Check Quiz Web App Extension
+# JS 3 - Competence Check Quiz Web App Extension
 
 Goal: The aim of this exercise is to extend the quiz web application from Competency Check 2. You will now replace the static data from the first competency check with data from the TRIVIA API.
 
