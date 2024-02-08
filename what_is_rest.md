@@ -27,7 +27,7 @@ What the server does when you, the client, call one of its APIs depends on 2 thi
 The image below shows the typical communictation between client & REST-API, REST-API and server.
 
 ## The communication in a RESTful API works like this:
-![Structure of an URL](img/rest_api_img_2.png "HTTP Request")
+![Structure of an URL](rest_api_img_2.png "HTTP Request")
 
 ### Communication between Client and REST API:
 
