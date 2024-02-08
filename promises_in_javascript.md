@@ -2,7 +2,7 @@
 ## What is a promise?
 In the real world a promise is an assurance or guarantee that something will happen in the future. A person can promise another person a specific outcome or result. You have probably made a promise before.
 
-![Promise GIF](img/promise.gif "Screenshot 1 - Install PHP Debug")
+![Promise GIF](promise.gif "Promise")
 
 In JavaScript they work pretty much the same as the real world concept. A Promise is an object that will produce a single value some time in the future. If the promise is successful, it will produce a resolved value, but if something goes wrong then it will produce a reason why the promise failed. 
 
