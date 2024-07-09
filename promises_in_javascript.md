@@ -30,10 +30,10 @@ const myPromise = new Promise((resolve, reject) => {
 Maybe you want to resolve the promise after a certain amount of time has passed. Let's visualize this scenario with a timeout.
 ```javascript
 const myPromise = new Promise((resolve, reject) => {
-    setTimeOut(() => resolve("Done"), 2000)
+    setTimeout(() => resolve("Done"), 2000)
 })
 ```
-Reference to the setTimeOut() function:
+Reference to the setTimeout() function:
 - https://www.w3schools.com/jsref/met_win_settimeout.asp
 - https://developer.mozilla.org/en-US/docs/Web/API/setTimeout
 
