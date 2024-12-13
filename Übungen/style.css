@@ -1,0 +1,145 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+h4 {
+    margin: 10px;
+}
+
+h5 {
+    margin: 20px ;
+}
+
+p {
+    margin: 15px 30px;
+}
+
+#chuck-joke, #dog-image, #pokemonDiv {
+    margin: 5vB;
+    padding: 5vB;
+    max-width: 75%;
+    background-color: #223939;
+    color: white;
+    border-radius: 20px;
+}
+
+#dog-image {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+#dog-image img {
+    max-width: 90%;
+}
+
+button, select {
+    border: none;
+    color: white;
+    background-color: #223939;
+    padding: 2vh;
+    margin: 5vB;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+
+#pokemonDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+#imageDiv {
+    display: flex;
+    background-color: rgba(183, 255, 255, 0.52);
+    border-radius: 15px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#imageDiv img {
+    width: 100%;
+}
+
+@media (min-width: 600px) {
+    #pokemonDiv {
+        width: 75%;
+    }
+    #imageDiv img {
+        width: 75vB;
+    }
+
+    #dog-image {
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60vh;
+    }
+}
+
+@media (min-width: 1024px) {
+    #pokemonDiv {
+        width: 30%;
+    }
+    #imageDiv img {
+        width: 60vB;
+    }
+
+    #dog-image {
+        width: 75%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60vh;
+    }
+}
+
+@media (min-width: 800px) {
+    #pokemonDiv {
+        width: 50%;
+    }
+    #imageDiv img {
+        width: 40vB;
+    }
+
+}
+
+#infos, .abilities {
+    padding: 20px;
+    border-radius: 10px;
+}
+#infos {
+    background-color: #0a2b2b;
+}
+
+.abilities {
+
+    background-color: #041e1e;
+}
+
+#abilitiesDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+img {
+    border-radius: 10px;
+}
